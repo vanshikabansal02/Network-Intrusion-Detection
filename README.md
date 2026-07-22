@@ -113,7 +113,7 @@ The analysis focuses on identifying factors that influence listing prices and av
 > Add screenshots of your visualizations here.
 
 ### Power BI Dashboard
-![Dashboard](img/dashboard.png)
+![Dashboard](img/Airbnb_dashboard.png)
 
 ### Geographic Distribution
 ![Geographic Distribution](img/geographic_distribution.png)
